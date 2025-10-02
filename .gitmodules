@@ -1,0 +1,18 @@
+[submodule "Bingo"]
+	path = Bingo
+	url = https://github.com/roberrodrigues10/Bingo
+[submodule "TablasMultiplicar"]
+	path = TablasMultiplicar
+	url = https://github.com/roberrodrigues10/TablasMultiplicar
+[submodule "Funciones"]
+	path = Funciones
+	url = https://github.com/roberrodrigues10/Funciones
+[submodule "Tabla-periodica"]
+	path = Tabla-periodica
+	url = https://github.com/roberrodrigues10/Tabla-periodica
+[submodule "Nomina-php"]
+	path = Nomina-php
+	url = https://github.com/roberrodrigues10/Nomina-php
+[submodule "Manual-php"]
+	path = Manual-php
+	url = https://github.com/roberrodrigues10/Manual-php
